@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matin889/eco-connect.git"
+    "url": "git+https://github.com/matin889/EcoConnect.git"
   },
   "author": "Eco Connect",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/matin889/eco-connect.git/issues"
+    "url": "https://github.com/matin889/EcoConnect.git/issues"
   },
-  "homepage": "https://github.com/matin889/eco-connect.git#readme",
+  "homepage": "https://github.com/matin889/EcoConnect.git#readme",
   "devDependencies": {
     "concurrently": "^8.0.1"
   },
